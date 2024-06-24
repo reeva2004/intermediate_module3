@@ -25,7 +25,7 @@ The contract owner can deactivate individuals, which marks them as inactive with
 
 ## Getting Started
 ### Installing
-To download the code, you can visit the following file path:-[https://github.com/Sagarthakur18/noob/blob/main/noob.sol]
+To download the code, you can visit the following file path:-[https://github.com/reeva2004/intermediate_module3/blob/main/module3.sol]
 
 ## Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at (https://remix.ethereum.org/.)
